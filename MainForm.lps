@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="20">
+      <Unit0>
+        <Filename Value="MainForm.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="102"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="mainformunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="MyEFSalary"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="MainFormUnit"/>
+        <TopLine Value="203"/>
+        <CursorPos X="30" Y="211"/>
+        <FoldState Value=" T3jH038#"/>
+        <UsageCount Value="102"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="BGRAControls\bgracontrols-master\bgragraphiccontrol.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="81"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="BGRAbitmap\bgrabitmap-master\bgrabitmap\bgrabitmap.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="81"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="paymentsunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form2"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="PaymentsUnit"/>
+        <EditorIndex Value="6"/>
+        <TopLine Value="138"/>
+        <CursorPos X="40" Y="151"/>
+        <UsageCount Value="31"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="componentmanagerunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="ComponentManagerUnit"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="166"/>
+        <CursorPos X="26" Y="8"/>
+        <UsageCount Value="31"/>
+        <Loaded Value="True"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="salesfunnel.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form3"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="SalesFunnel"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="23"/>
+        <CursorPos X="18" Y="6"/>
+        <UsageCount Value="31"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="bonussystemunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="BonusSystem"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="BonusSystemUnit"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="8"/>
+        <UsageCount Value="31"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="consultationsunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Consultations"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="ConsultationsUnit"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="40"/>
+        <CursorPos X="68" Y="47"/>
+        <UsageCount Value="29"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="settingsunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Settings"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="SettingsUnit"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="62"/>
+        <CursorPos X="59" Y="79"/>
+        <UsageCount Value="25"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="..\MyEFSalary\mainformunit.pas"/>
+        <UnitName Value="MainFormUnit"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="4"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="..\1.1\mainformunit.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="191"/>
+        <CursorPos X="34" Y="179"/>
+        <UsageCount Value="14"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="..\Универ. 3 курс\Visual\Laba4\unit1.pas"/>
+        <UnitName Value="Unit1"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="49"/>
+        <UsageCount Value="5"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="..\uuu\unit1.pas"/>
+        <HasResources Value="True"/>
+        <UnitName Value="Unit1"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="40"/>
+        <CursorPos X="41" Y="57"/>
+        <UsageCount Value="41"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="C:\lazarus\lcl\grids.pas"/>
+        <UnitName Value="Grids"/>
+        <EditorIndex Value="7"/>
+        <TopLine Value="9278"/>
+        <CursorPos Y="9287"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="..\1.1\hsbonussystem.pas"/>
+        <UnitName Value="HSbonussystem"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="5"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="..\MyEFSalary\stat2unit.pas"/>
+        <ComponentName Value="Stat2"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Stat2Unit"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="5"/>
+        <UsageCount Value="5"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="BGRAControls\bgracontrols-master\bcbasectrls.pas"/>
+        <UnitName Value="BCBaseCtrls"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="35"/>
+        <CursorPos X="3" Y="46"/>
+        <UsageCount Value="5"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="..\unit1.pas"/>
+        <UnitName Value="Unit1"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="48" Y="10"/>
+        <UsageCount Value="5"/>
+      </Unit18>
+      <Unit19>
+        <Filename Value="..\3SALESFUNNEL\componentmanagerunit.pas"/>
+        <UnitName Value="ComponentManagerUnit"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="166"/>
+        <CursorPos X="14" Y="188"/>
+        <UsageCount Value="9"/>
+      </Unit19>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="mainformunit.pas"/>
+        <Caret Line="366" Column="17" TopLine="351"/>
+      </Position1>
+      <Position2>
+        <Filename Value="mainformunit.pas"/>
+        <Caret Line="71" Column="14" TopLine="63"/>
+      </Position2>
+      <Position3>
+        <Filename Value="mainformunit.pas"/>
+        <Caret Line="394" Column="21" TopLine="270"/>
+      </Position3>
+      <Position4>
+        <Filename Value="mainformunit.pas"/>
+        <Caret Line="102" Column="28" TopLine="87"/>
+      </Position4>
+      <Position5>
+        <Filename Value="mainformunit.pas"/>
+        <Caret Line="104" Column="28" TopLine="89"/>
+      </Position5>
+      <Position6>
+        <Filename Value="mainformunit.pas"/>
+        <Caret Line="108" Column="45" TopLine="96"/>
+      </Position6>
+      <Position7>
+        <Filename Value="componentmanagerunit.pas"/>
+        <Caret Line="188" Column="14" TopLine="103"/>
+      </Position7>
+      <Position8>
+        <Filename Value="componentmanagerunit.pas"/>
+        <Caret Line="9" Column="58"/>
+      </Position8>
+      <Position9>
+        <Filename Value="componentmanagerunit.pas"/>
+        <Caret Line="10" Column="12"/>
+      </Position9>
+      <Position10>
+        <Filename Value="mainformunit.pas"/>
+        <Caret Line="9" Column="129"/>
+      </Position10>
+      <Position11>
+        <Filename Value="componentmanagerunit.pas"/>
+        <Caret Line="9" Column="58"/>
+      </Position11>
+      <Position12>
+        <Filename Value="mainformunit.pas"/>
+        <Caret Line="9" Column="119"/>
+      </Position12>
+      <Position13>
+        <Filename Value="mainformunit.pas"/>
+        <Caret Line="8" Column="42"/>
+      </Position13>
+      <Position14>
+        <Filename Value="bonussystemunit.pas"/>
+      </Position14>
+      <Position15>
+        <Filename Value="mainformunit.pas"/>
+        <Caret Line="151" Column="20" TopLine="147"/>
+      </Position15>
+      <Position16>
+        <Filename Value="mainformunit.pas"/>
+        <Caret Line="8" Column="22"/>
+      </Position16>
+      <Position17>
+        <Filename Value="consultationsunit.pas"/>
+      </Position17>
+      <Position18>
+        <Filename Value="mainformunit.pas"/>
+        <Caret Line="145" Column="22" TopLine="135"/>
+      </Position18>
+      <Position19>
+        <Filename Value="mainformunit.pas"/>
+        <Caret Line="144" Column="32" TopLine="131"/>
+      </Position19>
+      <Position20>
+        <Filename Value="consultationsunit.pas"/>
+        <Caret Line="35" Column="18" TopLine="18"/>
+      </Position20>
+      <Position21>
+        <Filename Value="consultationsunit.pas"/>
+        <Caret Line="59" Column="58" TopLine="39"/>
+      </Position21>
+      <Position22>
+        <Filename Value="mainformunit.pas"/>
+        <Caret Line="184" Column="50" TopLine="183"/>
+      </Position22>
+      <Position23>
+        <Filename Value="settingsunit.pas"/>
+      </Position23>
+      <Position24>
+        <Filename Value="settingsunit.pas"/>
+        <Caret Line="33" Column="17" TopLine="16"/>
+      </Position24>
+      <Position25>
+        <Filename Value="settingsunit.pas"/>
+        <Caret Line="52" Column="90" TopLine="32"/>
+      </Position25>
+      <Position26>
+        <Filename Value="settingsunit.pas"/>
+        <Caret Line="54" Column="87" TopLine="35"/>
+      </Position26>
+      <Position27>
+        <Filename Value="paymentsunit.pas"/>
+        <Caret Line="153" Column="4" TopLine="134"/>
+      </Position27>
+      <Position28>
+        <Filename Value="paymentsunit.pas"/>
+        <Caret Line="100" Column="8" TopLine="55"/>
+      </Position28>
+      <Position29>
+        <Filename Value="paymentsunit.pas"/>
+        <Caret Line="142" Column="22" TopLine="130"/>
+      </Position29>
+      <Position30>
+        <Filename Value="paymentsunit.pas"/>
+        <Caret Line="179" Column="7" TopLine="165"/>
+      </Position30>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
