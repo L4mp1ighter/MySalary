@@ -5,5 +5,7 @@ The program for monitoring the main performance indicators of a sales consultant
 
 РУКОВОДСТВО ПОЛЬЗОВАТЕЛЯ СО СКИНШОТАМИ В .pdf!!!!
 
+СКАН АКТА ВНЕДРЕНИЯ В .pdf!!!
+
 Для установки первой версии (а это именно она) необходимо поместить res.ini и line.png в папку D:\MyEFSalary.
 Исполняемый файл - в архиве.
